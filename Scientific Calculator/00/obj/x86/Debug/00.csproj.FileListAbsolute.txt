@@ -1,0 +1,81 @@
+Z:\Windows Form Applications\Calculator - Scientific\00\00\bin\Debug\00.exe
+Z:\Windows Form Applications\Calculator - Scientific\00\00\bin\Debug\00.pdb
+Z:\Windows Form Applications\Calculator - Scientific\00\00\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Windows Form Applications\Calculator - Scientific\00\00\obj\x86\Debug\WindowsFormsApplication1.frmMainWindow.resources
+Z:\Windows Form Applications\Calculator - Scientific\00\00\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\Windows Form Applications\Calculator - Scientific\00\00\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Windows Form Applications\Calculator - Scientific\00\00\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Windows Form Applications\Calculator - Scientific\00\00\obj\x86\Debug\00.exe
+Z:\Windows Form Applications\Calculator - Scientific\00\00\obj\x86\Debug\00.pdb
+E:\shamsu z\New Folder (2)\Calculator - Scientific\00\00\obj\x86\Debug\00.exe
+E:\shamsu z\New Folder (2)\Calculator - Scientific\00\00\obj\x86\Debug\00.pdb
+E:\shamsu z\New Folder (2)\Calculator - Scientific\00\00\bin\Debug\00.exe
+E:\shamsu z\New Folder (2)\Calculator - Scientific\00\00\bin\Debug\00.pdb
+E:\shamsu z\New Folder (2)\Calculator - Scientific\00\00\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\shamsu z\New Folder (2)\Calculator - Scientific\00\00\obj\x86\Debug\WindowsFormsApplication1.frmMainWindow.resources
+E:\shamsu z\New Folder (2)\Calculator - Scientific\00\00\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\shamsu z\New Folder (2)\Calculator - Scientific\00\00\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\shamsu z\New Folder (2)\Calculator - Scientific\00\00\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SHAMSU\Desktop\New folder (2)\Calculator - Scientific\00\00\obj\x86\Debug\00.exe
+C:\Users\SHAMSU\Desktop\New folder (2)\Calculator - Scientific\00\00\obj\x86\Debug\00.pdb
+C:\Users\SHAMSU\Desktop\New folder (2)\Calculator - Scientific\00\00\bin\Debug\00.exe
+C:\Users\SHAMSU\Desktop\New folder (2)\Calculator - Scientific\00\00\bin\Debug\00.pdb
+C:\Users\SHAMSU\Desktop\New folder (2)\Calculator - Scientific\00\00\obj\x86\Debug\WindowsFormsApplication1.frmMainWindow.resources
+C:\Users\SHAMSU\Desktop\New folder (2)\Calculator - Scientific\00\00\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\SHAMSU\Desktop\New folder (2)\Calculator - Scientific\00\00\obj\x86\Debug\00.csproj.GenerateResource.Cache
+E:\shamsu z\00\00\obj\x86\Debug\00.exe
+E:\shamsu z\00\00\obj\x86\Debug\00.pdb
+E:\shamsu z\00\00\bin\Debug\00.exe
+E:\shamsu z\00\00\bin\Debug\00.pdb
+E:\shamsu z\00\00\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\shamsu z\00\00\obj\x86\Debug\WindowsFormsApplication1.frmMainWindow.resources
+E:\shamsu z\00\00\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\shamsu z\00\00\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\shamsu z\00\00\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\shamsu z\Copy of 00\00\obj\x86\Debug\00.exe
+E:\shamsu z\Copy of 00\00\obj\x86\Debug\00.pdb
+E:\shamsu z\Copy of 00\00\bin\Debug\00.exe
+E:\shamsu z\Copy of 00\00\bin\Debug\00.pdb
+E:\shamsu z\Copy of 00\00\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\shamsu z\Copy of 00\00\obj\x86\Debug\WindowsFormsApplication1.frmMainWindow.resources
+E:\shamsu z\Copy of 00\00\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\shamsu z\Copy of 00\00\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\shamsu z\Copy of 00\00\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\shamsu z\Copy of 00\00\obj\x86\Debug\WindowsFormsApplication1.frmStatisticsForm.resources
+C:\Users\SHAMSU\Desktop\Copy of 00\00\obj\x86\Debug\00.exe
+C:\Users\SHAMSU\Desktop\Copy of 00\00\obj\x86\Debug\00.pdb
+C:\Users\SHAMSU\Desktop\Copy of 00\00\bin\Debug\00.exe
+C:\Users\SHAMSU\Desktop\Copy of 00\00\bin\Debug\00.pdb
+C:\Users\SHAMSU\Desktop\Copy of 00\00\obj\x86\Debug\WindowsFormsApplication1.frmMainWindow.resources
+C:\Users\SHAMSU\Desktop\Copy of 00\00\obj\x86\Debug\WindowsFormsApplication1.frmStatisticsForm.resources
+C:\Users\SHAMSU\Desktop\Copy of 00\00\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\SHAMSU\Desktop\Copy of 00\00\obj\x86\Debug\00.csproj.GenerateResource.Cache
+E:\Copy of 00\00\obj\x86\Debug\00.exe
+E:\Copy of 00\00\obj\x86\Debug\00.pdb
+E:\Copy of 00\00\bin\Debug\00.exe
+E:\Copy of 00\00\bin\Debug\00.pdb
+E:\Copy of 00\00\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Copy of 00\00\obj\x86\Debug\WindowsFormsApplication1.frmMainWindow.resources
+E:\Copy of 00\00\obj\x86\Debug\WindowsFormsApplication1.frmStatisticsForm.resources
+E:\Copy of 00\00\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Copy of 00\00\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Copy of 00\00\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Copy of Copy of 00\00\obj\x86\Debug\00.exe
+E:\Copy of Copy of 00\00\obj\x86\Debug\00.pdb
+C:\Users\SEDEF\Desktop\Complete C# Calculator\Scientific Calculator\00\bin\Debug\00.exe
+C:\Users\SEDEF\Desktop\Complete C# Calculator\Scientific Calculator\00\bin\Debug\00.pdb
+C:\Users\SEDEF\Desktop\Complete C# Calculator\Scientific Calculator\00\obj\x86\Debug\WindowsFormsApplication1.frmMainWindow.resources
+C:\Users\SEDEF\Desktop\Complete C# Calculator\Scientific Calculator\00\obj\x86\Debug\WindowsFormsApplication1.frmStatisticsForm.resources
+C:\Users\SEDEF\Desktop\Complete C# Calculator\Scientific Calculator\00\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\SEDEF\Desktop\Complete C# Calculator\Scientific Calculator\00\obj\x86\Debug\00.csproj.GenerateResource.cache
+C:\Users\SEDEF\Desktop\Complete C# Calculator\Scientific Calculator\00\obj\x86\Debug\00.csproj.CoreCompileInputs.cache
+C:\Users\SEDEF\Desktop\Complete C# Calculator\Scientific Calculator\00\obj\x86\Debug\00.exe
+C:\Users\SEDEF\Desktop\Complete C# Calculator\Scientific Calculator\00\obj\x86\Debug\00.pdb
+C:\Users\SEDEF\Desktop\Sedef\WebProgramming\Complete C# Calculator\Scientific Calculator\00\obj\x86\Debug\00.exe
+C:\Users\SEDEF\Desktop\Sedef\WebProgramming\Complete C# Calculator\Scientific Calculator\00\obj\x86\Debug\00.pdb
+C:\Users\SEDEF\Desktop\Sedef\WebProgramming\Complete C# Calculator\Scientific Calculator\00\bin\Debug\00.exe
+C:\Users\SEDEF\Desktop\Sedef\WebProgramming\Complete C# Calculator\Scientific Calculator\00\bin\Debug\00.pdb
+C:\Users\SEDEF\Desktop\Sedef\WebProgramming\Complete C# Calculator\Scientific Calculator\00\obj\x86\Debug\WindowsFormsApplication1.frmMainWindow.resources
+C:\Users\SEDEF\Desktop\Sedef\WebProgramming\Complete C# Calculator\Scientific Calculator\00\obj\x86\Debug\WindowsFormsApplication1.frmStatisticsForm.resources
+C:\Users\SEDEF\Desktop\Sedef\WebProgramming\Complete C# Calculator\Scientific Calculator\00\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\SEDEF\Desktop\Sedef\WebProgramming\Complete C# Calculator\Scientific Calculator\00\obj\x86\Debug\00.csproj.GenerateResource.Cache
